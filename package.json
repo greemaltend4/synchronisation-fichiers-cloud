@@ -1,0 +1,14 @@
+{
+  "name": "synchronisation-fichiers-cloud",
+  "version": "1.0.0",
+  "description": "Outil simple pour synchroniser des fichiers entre un stockage local et un service de cloud comme Google Drive ou Dropbox.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "googleapis": "^39.2.0",
+    "dropbox-v2-api": "^1.5.0"
+  }
+}
