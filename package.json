@@ -4,6 +4,7 @@
   "description": "Outil simple pour synchroniser des fichiers entre un stockage local et un service de cloud comme Google Drive ou Dropbox.",
   "main": "index.js",
   "homepage": "https://github.com/yourusername/synchronisation-fichiers-cloud#readme",
+  "license": "MIT",
   "scripts": {
     "start": "node index.js"
   },
